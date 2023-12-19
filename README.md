@@ -1,29 +1,37 @@
 
-🌱 Hey there! I'm Deni Sugiarto, your friendly Frontend Web Developer! 🚀✨
+Need experienced developers can help you build a modern, scalable, and responsive website? <br/><br/>
+Using the latest web technologies such as React.js and Next.js?  <br/><br/>
+So that you can focus on growing your business. <br/><br/><br/>
+If you have a project in mind or just want to chat, check out my portfolio: <br/>
+[Deni sugiarto Portfolio](https://denisugiarto.my.id/)<br/><br/>
 
-I don't just code; I craft digital experiences that leave a lasting impression! 🎨✨
-And here's the exciting part: I'm ready for freelance adventures! 🌟 If you have a project in mind or just want to chat, check out my portfolio: Deni sugiarto Portfolio.
+  🚀 My Tech Arsenal: <br/>
+<b>Programming Languages:</b>
+- JavaScript (ES6+)
+- TypeScript
 
-Let's turn your ideas into an online masterpiece! 💻🎉 Feel free to reach out—I'm just a message away!
-Just wanted to drop by and share a little about the tools I wield to create magic on the web:
-
-🚀 My Tech Arsenal:
-JavaScript (ES6+)
-Typescript
-Reactjs
-Nextjs
-React Native
-Redux / redux-toolkit
-React hook form
-Context
-CSS / Sass / CSS modules
-Styled-Components [CSS in JS]
-Bootstrap v 5.3
-Tailwind CSS
-DaisyUI
-Headless UI
-MUI 5
-Git
-
-Warm regards,
-Deni Sugiarto 🌱✨
+<br/>
+<b>Frontend Libraries/Frameworks:</b><br/>
+- React.js
+- Next.js
+- React Native
+- State Management:
+- Redux / Redux Toolkit
+- React Hook Form
+- Context API
+<br/><br/>
+<b>Styling:</b><br/>
+- CSS / Sass / CSS Modules
+- Styled-Components [CSS in JS]
+- Bootstrap
+- Tailwind CSS
+- DaisyUI
+- Headless UI
+- MUI 5
+<br/><br/>
+<b>Version Control:</b><br/>
+- Git
+<br/><br/>
+Warm regards,<br/>
+<b>Deni Sugiarto</b> 🌱✨
+<b>
