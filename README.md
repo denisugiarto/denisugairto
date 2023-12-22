@@ -1,5 +1,5 @@
 
-Need experienced developers can help you build a modern, scalable, and responsive website? <br/><br/>
+Need experienced developers to help you build a modern, scalable, and responsive website? <br/><br/>
 Using the latest web technologies such as React.js and Next.js?  <br/><br/>
 So that you can focus on growing your business. <br/><br/><br/>
 If you have a project in mind or just want to chat, check out my portfolio: <br/>
