@@ -15,7 +15,8 @@ If you have a project in mind or just want to chat, check out my portfolio: <br/
 - React.js
 - Next.js
 - React Native
-- State Management:
+<br/><br/>
+<b>State Management:</b><br/>
 - Redux / Redux Toolkit
 - React Hook Form
 - Context API
@@ -31,6 +32,8 @@ If you have a project in mind or just want to chat, check out my portfolio: <br/
 <br/><br/>
 <b>Version Control:</b><br/>
 - Git
+- Gitlab
+- Github
 <br/><br/>
 Warm regards,<br/>
 <b>Deni Sugiarto</b> 🌱✨
