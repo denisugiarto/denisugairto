@@ -15,6 +15,7 @@ If you have a project in mind or just want to chat, check out my portfolio: <br/
 - React.js
 - Next.js
 - React Native
+- Vuejs
 <br/><br/>
 <b>State Management:</b><br/>
 - Redux / Redux Toolkit
