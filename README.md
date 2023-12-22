@@ -12,30 +12,30 @@ If you have a project in mind or just want to chat, check out my portfolio: <br/
 
 <br/>
 <b>Frontend Libraries/Frameworks:</b><br/>
-- React.js
-- Next.js
-- React Native
-- Vuejs
+- React.js<br/>
+- Next.js<br/>
+- React Native<br/>
+- Vuejs<br/>
 <br/><br/>
 <b>State Management:</b><br/>
-- Redux / Redux Toolkit
-- React Hook Form
-- Context API
+- Redux / Redux Toolkit<br/>
+- React Hook Form<br/>
+- Context API<br/>
 <br/><br/>
 <b>Styling:</b><br/>
-- CSS / Sass / CSS Modules
-- Styled-Components [CSS in JS]
-- Bootstrap
-- Tailwind CSS
-- DaisyUI
-- Headless UI
-- MUI 5
-<br/><br/>
+- CSS / Sass / CSS Modules<br/>
+- Styled-Components [CSS in JS]<br/>
+- Bootstrap<br/>
+- Tailwind CSS<br/>
+- DaisyUI<br/>
+- Headless UI<br/>
+- MUI 5<br/>
+<br/>
 <b>Version Control:</b><br/>
-- Git
-- Gitlab
-- Github
-<br/><br/>
+- Git<br/>
+- Gitlab<br/>
+- Github<br/>
+<br/>
 Warm regards,<br/>
 <b>Deni Sugiarto</b> 🌱✨
 <b>
